@@ -1,5 +1,5 @@
-# Fatal Police Shooting in United States
-[This project](notebook.ipynb) will take a look at killings that took place at the hands of police officers in the United States from the beginning of 2015 to into February 2017. The main goal is to explore the data, provide a list of issues and propose a plan on how to tackle these issues.
+# Fatal Police Shooting in the United States
+[This project](notebook.ipynb) will take a look at killings that took place at the hands of police officers in the United States from the beginning of 2015 to February 2017. The main goal is to explore the data, provide a list of issues and propose a plan on how to tackle these issues.
 
 More details about the dataset can be found [here](https://www.kaggle.com/washingtonpost/police-shootings)
 
