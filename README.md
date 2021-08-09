@@ -1,5 +1,5 @@
 # Fatal Police Shooting in the United States
-[This project](notebook.ipynb) will take a look at killings that took place at the hands of police officers in the United States from the beginning of 2015 to February 2017. The main goal is to explore the data, provide a list of issues and propose a plan on how to tackle these issues.
+A visual and statistical analysis exploring the data of killings that took place at the hands of police officers in the United States from the beginning of 2015 to February 2017. In [this project](notebook.ipynb), I explored the rate of mental illness and racial bias among fatal police shootings and performed hypothesis testing. Later, I tried grouping similar cases with dimensionality reduction and clustering. And finally, I built a tree-based machine learning model to classify the race of the victim.
 
 More details about the dataset can be found [here](https://www.kaggle.com/washingtonpost/police-shootings)
 
